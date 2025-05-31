@@ -1,0 +1,28 @@
+
+# Sales Over Time
+Month,Sales
+Jan,100
+Feb,150
+Mar,120
+Apr,180
+
+# Expenses Over Time
+Month,Expenses
+Jan,80
+Feb,90
+Mar,110
+Apr,95
+
+# Profits by Category
+Category,Profit
+Electronics,200
+Clothing,150
+Home,100
+Books,75
+
+# Users per Region
+Region,Users
+North,1200
+South,950
+East,1100
+West,1300
