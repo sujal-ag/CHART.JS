@@ -60,7 +60,7 @@ function createChart(id, label, labels, data, color) {
   });
 }
 
-loadCSV().then((data) => {
+loadCSV().dathen((ta) => {
   createChart(
     "salesChart",
     "Sales",
